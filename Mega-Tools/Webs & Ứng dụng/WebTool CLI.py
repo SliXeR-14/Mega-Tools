@@ -68,3 +68,39 @@ GET /api/user
     "email": "minh@example.com"
 }
 """)
+def main():
+    while True:
+        clear()
+        banner()
+        print(Fore.YELLOW + "\n📌 MENU CHỨC NĂNG")
+        print(Fore.WHITE + "1. Kiểm tra website")
+        print("2. Tạo mã HTML mẫu")
+        print("3. Tạo mã QR từ URL")
+        print("4. Kiểm tra tốc độ mạng")
+        print("5. API giả lập")
+        print("0. Thoát")
+        choice = input(Fore.CYAN + "\n👉 Chọn chức năng (0-5): ")
+
+        clear()
+        banner()
+        print()
+        if choice == "1":
+            check_website()
+        elif choice == "2":
+            generate_html_template()
+        elif choice == "3":
+            generate_qr()
+        elif choice == "4":
+            test_speed()
+        elif choice == "5":
+            mock_api()
+        elif choice == "0":
+            print(Fore.GREEN + "👋 Tạm biệt WebTool CLI!")
+            break
+        else:
+            print(Fore.RED + "⚠️ Lựa chọn không hợp lệ.")
+
+        input(Fore.YELLOW + "\nNhấn Enter để quay lại menu...")
+
+if __name__ == "__main__":
+    main()
