@@ -68,6 +68,7 @@ GET /api/user
     "email": "minh@example.com"
 }
 """)
+
 def main():
     while True:
         clear()
