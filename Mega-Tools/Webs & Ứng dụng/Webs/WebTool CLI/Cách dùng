@@ -1,4 +1,3 @@
 1. Tải file về và giải nén
-2. Ấn chuột phải để bật terminal ( nếu bạn ấn chuột phải và bật terminal và hiện ra ở powershell thì bạn hãy ghi cmd )
-3. Trong cmd của terminal, ta chạy: pip install -r requirements.txt
-4. Sau đó bạn có thể chạy app bằng python WebTool CLI.py
+2. Cài đặt thư viện bằng lệnh: pip install -r requirements.txt
+3. khi cài requirements.txt đã xong, bạn chạy chương trình bằng lệnh: python webtool_cli.py
