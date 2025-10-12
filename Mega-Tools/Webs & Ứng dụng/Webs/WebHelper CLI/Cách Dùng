@@ -1,3 +1,3 @@
 1. Tải file và giải nén
 2. Cài đặt dependencies qua lệnh: pip install -r requirements.txt
-Chạy chương trình: python webhelper.py
+3. Chạy chương trình: python webhelper.py
