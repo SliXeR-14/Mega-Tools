@@ -100,3 +100,4 @@ def main():
         input(Fore.YELLOW + "\nNhấn Enter để quay lại menu...")
 
 if __name__ == "__main__":
+    main()
