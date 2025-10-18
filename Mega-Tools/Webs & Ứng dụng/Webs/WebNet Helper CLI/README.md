@@ -61,8 +61,11 @@ Sau đó chọn chức năng từ menu (0–16).
 
 ## 📂 Cấu trúc repo
 NetHelper-CLI/
+
 │── NetHelper.cpp        # Source code chính
+
 │── NetHelper.vcxproj    # File project Visual Studio
+
 │── README.md            # Hướng dẫn sử dụng
 
 ---
