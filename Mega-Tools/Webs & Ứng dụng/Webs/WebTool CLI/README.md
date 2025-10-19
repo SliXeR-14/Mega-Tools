@@ -49,14 +49,14 @@ Công cụ được viết bằng **Python 3** và sử dụng các thư viện 
 ## 🤝 Đóng góp
 - Fork repo và tạo branch mới cho tính năng/sửa lỗi.
 
-- 2. Commit thay đổi và tạo Pull Request.
+- Commit thay đổi và tạo Pull Request.
 
-- 3. Mọi đóng góp đều được hoan nghênh!
+- Mọi đóng góp đều được hoan nghênh!
 
 ---
 
 ## 📜 Giấy phép
-- Dự án này phát hành theo MIT License. 
+- Dự án này phát hành theo **MIT License**. 
 
 - Bạn có thể sử dụng, chỉnh sửa và chia sẻ lại, miễn là giữ nguyên thông tin giấy phép.
 
