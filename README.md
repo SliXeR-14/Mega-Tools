@@ -79,3 +79,5 @@ Mình sẽ cố gắng phản hồi sớm nhất có thể.
 
 ## 🙏 Cảm ơn
 ✨ Cảm ơn bạn đã ghé thăm Mega-Tools! Nếu thấy hữu ích, đừng quên ⭐ repo để ủng hộ nhé.
+
+---
