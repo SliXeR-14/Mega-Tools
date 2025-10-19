@@ -23,8 +23,7 @@ Công cụ được viết bằng **Python 3** và sử dụng thư viện `requ
    git clone https://github.com/SlixER-14/Mega-Tools.git
    cd Mega-Tools/Webs/WebHelper\ CLI
 
-2. Cài đặt thư viện cần thiết:
-3. 
+2. Cài đặt thư viện cần thiết: 
    ```bash
    pip install -r requirements.txt
 
