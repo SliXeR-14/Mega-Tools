@@ -63,6 +63,6 @@ Công cụ được viết bằng **Python 3** và sử dụng các thư viện 
 ---
 
 ## 🌟 Lời kết
-WebTool CLI là công cụ nhỏ gọn nhưng mạnh mẽ, giúp bạn thao tác nhanh với web và kiểm tra hệ thống. Nếu thấy hữu ích, hãy ⭐ repo để ủng hộ nhé!
+**WebTool CLI** là công cụ nhỏ gọn nhưng mạnh mẽ, giúp bạn thao tác nhanh với web và kiểm tra hệ thống. Nếu thấy hữu ích, hãy ⭐ repo để ủng hộ nhé!
 
 ---
