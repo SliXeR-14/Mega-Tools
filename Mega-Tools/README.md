@@ -63,3 +63,5 @@ Cảm ơn bạn đã ghé thăm **Mega-Tools**!
 
 Hy vọng repo này sẽ giúp bạn tìm được những công cụ hữu ích.  
 Nếu thấy hay, hãy ⭐ repo để ủng hộ nhé.
+
+---
