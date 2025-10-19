@@ -41,11 +41,11 @@ Công cụ được viết bằng **Python 3** và sử dụng thư viện `requ
 ---
 
 ## 🤝 Đóng góp
-1. Fork repo và tạo branch mới cho tính năng/sửa lỗi.
+- Fork repo và tạo branch mới cho tính năng/sửa lỗi.
 
-2. Commit thay đổi và tạo Pull Request.
+- Commit thay đổi và tạo Pull Request.
 
-3. Mọi đóng góp đều được hoan nghênh!
+- Mọi đóng góp đều được hoan nghênh!
 
 ---
 
