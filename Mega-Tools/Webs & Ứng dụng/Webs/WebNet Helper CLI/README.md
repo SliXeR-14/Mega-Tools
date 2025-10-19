@@ -40,7 +40,7 @@
 
 ## 🚀 Cách build
 
-### Trên Linux / macOS
+### Trên Linux / macOS   
 g++ -std=c++17 NetHelper.cpp -o nethelper -lcurl -lpthread
 
 ### Trên Windows (Visual Studio)
