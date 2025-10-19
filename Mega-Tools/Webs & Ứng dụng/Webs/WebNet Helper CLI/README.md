@@ -1,6 +1,6 @@
 # 🌐 NetHelper CLI — Ultra Deluxe
 
-NetHelper CLI là một công cụ dòng lệnh viết bằng **C++** giúp kiểm tra và hỗ trợ các tác vụ liên quan đến web và mạng.  
+**NetHelper CLI** là một công cụ dòng lệnh viết bằng **C++** giúp kiểm tra và hỗ trợ các tác vụ liên quan đến web và mạng.  
 Ứng dụng có giao diện CLI với hiệu ứng ASCII, màu sắc và nhiều chức năng tiện ích.
 
 ---
@@ -71,9 +71,9 @@ NetHelper-CLI/
 ---
 
 ## 📜 Giấy phép
-Dự án được phát triển bởi SliXeR-14 (2025). 
+- Dự án được phát triển bởi SliXeR-14 (2025). 
 
-Bạn có thể sử dụng, chỉnh sửa và phân phối lại theo nhu cầu cá nhân.
+- Bạn có thể sử dụng, chỉnh sửa và phân phối lại theo nhu cầu cá nhân.
 
 ---
 
