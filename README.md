@@ -45,13 +45,13 @@ Nếu bạn thấy hữu ích, hãy ⭐ repo để ủng hộ nhé!
 ## 🤝 Đóng góp
 Mình rất hoan nghênh mọi đóng góp từ cộng đồng. Bạn có thể tham gia bằng cách:
 
-1. Fork repo này.
+- Fork repo này.
 
-2. Tạo branch mới cho tính năng hoặc sửa lỗi.
+- Tạo branch mới cho tính năng hoặc sửa lỗi.
 
-3. Commit và push thay đổi.
+- Commit và push thay đổi.
 
-4. Tạo Pull Request để mình review.
+- Tạo Pull Request để mình review.
 
 ---
 
@@ -65,16 +65,16 @@ Một số tool có thể cần C++, nhưng đa số chạy được trên Pytho
 ---
 
 ## 📜 Giấy phép
-Dự án này được phát hành theo MIT License. 
+- Dự án này được phát hành theo MIT License. 
 
-Bạn có thể sử dụng, chỉnh sửa và chia sẻ lại, miễn là giữ nguyên thông tin giấy phép.
+- Bạn có thể sử dụng, chỉnh sửa và chia sẻ lại, miễn là giữ nguyên thông tin giấy phép.
 
 ---
 
 ## 📬 Liên hệ
-Nếu bạn có câu hỏi, góp ý hoặc ý tưởng mới, hãy mở Issue trong repo hoặc liên hệ trực tiếp qua GitHub.
+- Nếu bạn có câu hỏi, góp ý hoặc ý tưởng mới, hãy mở Issue trong repo hoặc liên hệ trực tiếp qua GitHub.
 
-Mình sẽ cố gắng phản hồi sớm nhất có thể.
+- Mình sẽ cố gắng phản hồi sớm nhất có thể.
 
 ---
 
