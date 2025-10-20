@@ -65,7 +65,7 @@ Một số tool có thể cần C++, nhưng đa số chạy được trên Pytho
 ---
 
 ## 📜 Giấy phép
-- Dự án này được phát hành theo MIT License. 
+- Dự án này được phát hành theo [MIT License](../LICENSE). 
 
 - Bạn có thể sử dụng, chỉnh sửa và chia sẻ lại, miễn là giữ nguyên thông tin giấy phép.
 
