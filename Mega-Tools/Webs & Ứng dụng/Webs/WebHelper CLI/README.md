@@ -50,7 +50,7 @@ Công cụ được viết bằng **Python 3** và sử dụng thư viện `requ
 ---
 
 ## 📜 Giấy phép
-- Dự án này phát hành theo MIT License. 
+- Dự án này phát hành theo [MIT License](../LICENSE). 
 
 - Bạn có thể sử dụng, chỉnh sửa và chia sẻ lại, miễn là giữ nguyên thông tin giấy phép.
 
