@@ -23,7 +23,8 @@ Nếu bạn thấy hữu ích, hãy ⭐ repo để ủng hộ nhé!
 - 📂 Công cụ quản lý file, dữ liệu cơ bản.  
 - 🌐 Một số tool liên quan đến internet và tự động hóa.  
 - 🎮 Các tiện ích nhỏ phục vụ giải trí.  
-- 📝 Code dễ đọc, có chú thích rõ ràng.  
+- 📝 Code dễ đọc, có chú thích rõ ràng.
+- ✍️ Code được viết hầu hết bằng **Python**, chỉ một số script bằng **C++**.
 
 ---
 
