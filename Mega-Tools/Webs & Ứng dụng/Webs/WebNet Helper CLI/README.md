@@ -71,7 +71,7 @@ NetHelper-CLI/
 ---
 
 ## 📜 Giấy phép
-- Dự án được phát triển bởi SliXeR-14 (2025). 
+- Dự án được phát triển bởi SliXeR-14 (2025) và bạn phải tuân thủ [MIT License](../LICENSE).
 
 - Bạn có thể sử dụng, chỉnh sửa và phân phối lại theo nhu cầu cá nhân.
 
