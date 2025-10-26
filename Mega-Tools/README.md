@@ -50,6 +50,13 @@ Một số tool có thể cần C++, nhưng đa số chạy được trên Pytho
 
 ---
 
+## 📬 Liên hệ
+- Nếu bạn có câu hỏi, góp ý hoặc ý tưởng mới, hãy mở Issue trong repo hoặc liên hệ trực tiếp qua GitHub.
+
+- Mình sẽ cố gắng phản hồi sớm nhất có thể.
+
+---
+
 ## ❓ FAQ
 
 **Q: Tôi chỉ muốn dùng một tool, có cần tải cả repo không?**  
