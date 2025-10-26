@@ -29,12 +29,24 @@ Mỗi công cụ sẽ đi kèm file hướng dẫn cách tải và sử dụng.
 ---
 
 ## 🤝 Đóng góp
+Mình rất hoan nghênh mọi đóng góp từ cộng đồng. Bạn có thể tham gia bằng cách:
 
-Nếu bạn muốn đóng góp:  
-1. Fork repo.  
-2. Thêm tool mới vào thư mục phù hợp.  
-3. Viết `README.md` cho tool đó (mô tả, cách dùng, ví dụ).  
-4. Tạo Pull Request để mình review.  
+- Fork repo này.
+
+- Tạo branch mới cho tính năng hoặc sửa lỗi.
+
+- Commit và push thay đổi.
+
+- Tạo Pull Request để mình review.
+
+---
+
+## 🛠️ Yêu cầu hệ thống
+Python 3.8+ (nếu dùng tool viết bằng Python).
+
+Git để clone repo.
+
+Một số tool có thể cần C++, nhưng đa số chạy được trên Python.
 
 ---
 
