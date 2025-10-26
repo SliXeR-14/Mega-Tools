@@ -157,3 +157,40 @@ def show_progress():
     percent = int((done / total) * 100)
     bar = "█" * (percent // 10) + "-" * (10 - percent // 10)
     print(f"\n⏳ Tiến độ: [{bar}] {percent}%")
+
+def main():
+    while True:
+        clear_screen()
+        banner()
+        show_menu()
+        choice = input("\n👉 Chọn chức năng (0-10): ")
+        if choice == "1":
+            add_task()
+        elif choice == "2":
+            view_tasks()
+        elif choice == "3":
+            mark_done()
+        elif choice == "4":
+            delete_task()
+        elif choice == "5":
+            search_task()
+        elif choice == "6":
+            edit_task()
+        elif choice == "7":
+            sort_tasks()
+        elif choice == "8":
+            save_tasks()
+        elif choice == "9":
+            load_tasks()
+        elif choice == "10":
+            stats()
+        elif choice == "0":
+            print("👋 Tạm biệt, hẹn gặp lại!")
+            time.sleep(1)
+            break
+        else:
+            print("❌ Lựa chọn không hợp lệ.")
+        input("\nNhấn Enter để tiếp tục...")
+
+if __name__ == "__main__":
+    main()
