@@ -69,6 +69,7 @@ A: Tất cả tool đều là mã nguồn mở, bạn có thể xem code trướ
 
 ## 📜 Giấy phép
 
+Repo này thuộc quyền sở hữu và phân phối của SliXeR-14
 Repo này tuân thủ [MIT License](../LICENSE).  
 Bạn có thể sử dụng, chỉnh sửa, chia sẻ lại, miễn là giữ nguyên thông tin giấy phép.
 
