@@ -33,10 +33,12 @@
 
 1. Lưu code vào file taskhelper.py
 2. Cài đặt thư viện  
-  pip install colorama
+
+pip install colorama
 
 3. Chạy chương trình:
-  python taskhelper.py
+  
+python taskhelper.py
 
 ---
 
