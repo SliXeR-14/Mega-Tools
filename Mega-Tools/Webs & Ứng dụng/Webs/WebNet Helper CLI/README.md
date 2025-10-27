@@ -83,3 +83,7 @@ NetHelper-CLI/
 - Các thư viện chuẩn C++ (iostream, string, regex, fstream, chrono, thread, vector, sstream, random) → đã có sẵn trong compiler.
 
 ---
+
+## 🙏 Lời kết
+
+- Cảm ơn các bạn đã xem đến đây, nếu thấy hay và hữu ích, hãy thả like và sao ủng hộ mình nhé.
