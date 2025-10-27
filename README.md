@@ -66,6 +66,11 @@ Một số tool có thể cần C++, nhưng đa số chạy được trên Pytho
 
 ---
 
+## 👨‍💻 Tác giả
+SliXeR-14 – 2025
+
+---
+
 ## 📜 Giấy phép
 - Dự án này được phát hành theo [MIT License](../LICENSE). 
 
