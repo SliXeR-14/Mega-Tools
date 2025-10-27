@@ -53,6 +53,8 @@ Mình rất hoan nghênh mọi đóng góp từ cộng đồng. Bạn có thể 
 
 - Tạo Pull Request để mình review.
 
+- Tạo Issue nếu gặp bug.
+
 ---
 
 ## 🛠️ Yêu cầu hệ thống
