@@ -3,7 +3,7 @@
 **Mega-Tools** là bộ sưu tập những công cụ nhỏ nhưng hữu ích trong cuộc sống hằng ngày.  
 Mục tiêu của repo này là chia sẻ các script, tiện ích và tool giúp bạn tiết kiệm thời gian, học tập hiệu quả hơn và làm việc thông minh hơn.  
 
-Mọi người có thể tải về và sử dụng thoải mái, nhưng nhớ tuân thủ theo giấy phép **MIT License**.
+Mọi người có thể tải về và sử dụng thoải mái, nhưng nhớ tuân thủ theo giấy phép [MIT License](../LICENSE).
 
 ---
 
