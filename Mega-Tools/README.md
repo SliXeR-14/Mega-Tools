@@ -66,6 +66,7 @@ A: Không cần. Bạn có thể tải riêng thư mục hoặc file của tool 
 A: Tất cả tool đều là mã nguồn mở, bạn có thể xem code trước khi chạy.  
 
 **Q: Nếu không biết cách sài tool, vậy không dùng được hả?**
+
 A: Mỗi chủ đề, mỗi tool đều có file README.md để bạn xem cách cài và hướng dẫn nhé.
 
 ---
