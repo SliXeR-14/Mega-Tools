@@ -42,7 +42,7 @@ Mình rất hoan nghênh mọi đóng góp từ cộng đồng. Bạn có thể 
 ---
 
 ## 🛠️ Yêu cầu hệ thống
-Python 3.8+ (nếu dùng tool viết bằng Python).
+**Python 3.8+** (nếu dùng tool viết bằng Python).
 
 Git để clone repo.
 
@@ -64,6 +64,9 @@ A: Không cần. Bạn có thể tải riêng thư mục hoặc file của tool 
 
 **Q: Tool có an toàn không?**  
 A: Tất cả tool đều là mã nguồn mở, bạn có thể xem code trước khi chạy.  
+
+**Q: Nếu không biết cách sài tool, vậy không dùng được hả?**
+A: Mỗi chủ đề, mỗi tool đều có file README.md để bạn xem cách cài và hướng dẫn nhé.
 
 ---
 
