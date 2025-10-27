@@ -43,7 +43,9 @@ python taskhelper.py
 ---
 
 ## 👨‍💻 Tác giả
-SliXeR-14 – 2025 📌 Một dự án nhỏ nhưng hữu ích để quản lý công việc hằng ngày.
+SliXeR-14 – 2025 
+
+📌 Một dự án nhỏ nhưng hữu ích để quản lý công việc hằng ngày.
 
 Dự án được xuất bản theo giấy phép [MIT License](../LICENSE).
 
@@ -66,6 +68,8 @@ Mình rất hoan nghênh mọi đóng góp từ cộng đồng. Bạn có thể 
 - Commit và push thay đổi.
 
 - Tạo Pull Request để mình review.
+
+- Tạo Issue nếu có bug nhé.
 
 ---
 
